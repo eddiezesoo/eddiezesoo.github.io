@@ -1,2 +1,0 @@
-# zesoo
-zesoo's website
