@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612061218000</updated>
       <workItem from="1612061219146" duration="789000" />
-      <workItem from="1612062012863" duration="1478000" />
+      <workItem from="1612062012863" duration="2247000" />
     </task>
     <task id="LOCAL-00001" summary="e">
       <created>1612061274445</created>
@@ -103,7 +103,35 @@
       <option name="project" value="LOCAL" />
       <updated>1612063269256</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="es">
+      <created>1612063552069</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612063552069</updated>
+    </task>
+    <task id="LOCAL-00008" summary="es">
+      <created>1612063671174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612063671174</updated>
+    </task>
+    <task id="LOCAL-00009" summary="es">
+      <created>1612063682620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612063682620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="es">
+      <created>1612063747695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612063747695</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,13 +160,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="282" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612063208355" />
-    <state x="845" y="386" width="425" height="268" key="MultipleFileMergeDialog" timestamp="1612063221390">
+    <state x="845" y="386" width="425" height="268" key="MultipleFileMergeDialog" timestamp="1612063713295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="845" y="386" width="425" height="268" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612063221390" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612063281513">
+    <state x="845" y="386" width="425" height="268" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612063713295" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612063760847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612063281513" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612063760847" />
   </component>
 </project>
