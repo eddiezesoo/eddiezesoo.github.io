@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d025860-6b1b-427e-8df5-dc55f419d00c" name="Default Changelist" comment="es" />
+    <list default="true" id="5d025860-6b1b-427e-8df5-dc55f419d00c" name="Default Changelist" comment="e">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612061218000</updated>
       <workItem from="1612061219146" duration="789000" />
-      <workItem from="1612062012863" duration="2247000" />
+      <workItem from="1612062012863" duration="2433000" />
+      <workItem from="1612064456714" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="e">
       <created>1612061274445</created>
@@ -131,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612063747695</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="e">
+      <created>1612064394697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612064394697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,10 +160,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="e" />
     <MESSAGE value="eee" />
     <MESSAGE value="es" />
-    <option name="LAST_COMMIT_MESSAGE" value="es" />
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
   <component name="WindowStateProjectService">
     <state x="282" y="86" key="MergeDialog" timestamp="1612063208355">
@@ -164,9 +174,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="386" width="425" height="268" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612063713295" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612063760847">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612064400097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612063760847" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612064400097" />
+    <state x="625" y="306" key="git4idea.merge.GitPullDialog" timestamp="1612064333704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612064333704" />
   </component>
 </project>
